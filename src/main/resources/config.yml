@@ -1,0 +1,9 @@
+# If the plugin should block the commands in your command list or not
+command-blocking-enabled: true
+
+# The message to send to any player that attempts to execute a blocked command. (Use & for colors)
+blocked-message: "Unknown command. Type \"/help\" for help."
+
+# If enabled is true, block the commands in this list
+blocked-commands:
+  - "/somecommand"

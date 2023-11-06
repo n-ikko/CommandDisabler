@@ -1,0 +1,8 @@
+name: CommandDisabler
+version: '${project.version}'
+main: me.nikko.commanddisabler.CommandDisabler
+load: STARTUP
+authors: [ nikko ]
+description: A simple plugin to disable certain commands.
+website: https://github.com/n-ikko/CommandDisabler
+api-version: 1.20
