@@ -1,5 +1,5 @@
 # CommandDisabler
-A simple SpigotMC plugin to disable certain commands.
+A simple SpigotMC 1.20+ plugin to disable certain commands.
 
 ## Usage
 - Install the plugin onto you're server.
